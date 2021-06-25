@@ -22,6 +22,7 @@
         "prettier"
     ],
     "rules": {
+        "react/jsx-filename-extension": "off",
         "semi": "error",
         "linebreak-style": ["error", "windows"],
         "quotes": [2, "single", "avoid-escape"],
