@@ -1,5 +1,7 @@
 # Dog Breeds App
 
+![Vercel](http://therealsujitk-vercel-badge.vercel.app/?app=dog-breeds-jose-rosendo)
+
 Technical interview project developed in [React](https://reactjs.org/) using [Create React App](https://create-react-app.dev/).
 
 This app gets data from the [Dog CEO API](https://dog.ceo/) and lays it out classified by dog breeds and their respective sub-breeds.
