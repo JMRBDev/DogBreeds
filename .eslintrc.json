@@ -24,7 +24,6 @@
     "rules": {
         "react/jsx-filename-extension": "off",
         "semi": "error",
-        "linebreak-style": ["error", "windows"],
         "quotes": [2, "single", "avoid-escape"],
         "jsx-quotes": ["error", "prefer-single"],
         "consistent-return": "off",
