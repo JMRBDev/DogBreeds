@@ -24,3 +24,7 @@ This app gets data from the [Dog CEO API](https://dog.ceo/) and lays it out clas
 - Language and UI theme mode **persistence** in LocalStorage
 - **Responsive** design
 - Styling using **Styled-Components**
+
+![App Homepage in English](../media/media/img/empty_home_en.png)
+
+![App Homepage in Spanigh](../media/media/img/empty_home_es.png)
