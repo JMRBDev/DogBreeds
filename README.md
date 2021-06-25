@@ -33,7 +33,7 @@ Production build of the app on [Vercel](https://dog-breeds-jose-rosendo.vercel.a
 #### App Homepage in Spanish
 ![App Homepage in Spanigh](../media/media/img/empty_home_es.png)
 #### Breed search
-![Breed search](../media/media/img/bulldog_all_sub_breeds.png)
+![Breed search](../media/media/img/bulldog_all_sub-breeds.png)
 #### Breed search and Sub-breed specification
 ![Breed search and Sub-breed specification](../media/media/img/bulldog_english_sub-breed.png)
 #### Mobile filters shown
